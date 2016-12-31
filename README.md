@@ -1,0 +1,2 @@
+# Teamspeak3
+Script
