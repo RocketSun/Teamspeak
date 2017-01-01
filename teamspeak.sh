@@ -72,5 +72,5 @@ sleep 6
 cd /home/teamspeak
 cd teamspeak3-server_linux_amd64
 su root -c "./ts3server_startscript.sh start"
-
+rm teamspeak.sh
 
