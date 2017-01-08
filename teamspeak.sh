@@ -69,6 +69,7 @@ clear
 sleep 3
 greenMessage "Teamspeak Start Script Wird Installiert"
 sleep 6
+cd /home/teamspeak
 wget https://raw.githubusercontent.com/RocketSun/Teamspeak/master/ts3.sh
 clear
 sleep 3
